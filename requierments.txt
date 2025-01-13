@@ -1,0 +1,4 @@
+# Add any dependencies here, for example:
+pygame
+numpy
+requests
